@@ -323,9 +323,13 @@ footer {
 
 /* For small screen sizes 800px and down */
 @media screen and (max-width: 800px) {
-    column-count: 2;
-
+    #photos {
+        column-count: 2;
+    }
 }
+
+   
+
 
 
 
